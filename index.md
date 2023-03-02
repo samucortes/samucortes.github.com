@@ -1,6 +1,6 @@
-SAMUEL
-CORTES 
-VAZQUEZ
+Samuel 
+Cortes
+Vazquez
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
