@@ -7,7 +7,7 @@ Estudiante de preparatoria
 Escuela cetis 32
 
 Especializado en ofimatica
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+Con 3 años de estudio en la carrera 
 
 # Header 1
 
