@@ -4,10 +4,9 @@ Vazquez
 
 Estudiante de preparatoria
 
-[Link to another page](./another-page.html).
+Escuela cetis 32
 
-There should be whitespace between paragraphs.
-
+Especializado en ofimatica
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
 # Header 1
