@@ -2,7 +2,7 @@ Samuel
 Cortes
 Vazquez
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Estudiante de preparatoria
 
 [Link to another page](./another-page.html).
 
