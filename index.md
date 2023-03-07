@@ -9,9 +9,9 @@ Escuela cetis 32
 Especializado en ofimatica
 Con 3 años de estudio en la carrera 
 
-# Header 1
+Pasatiempos
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Leer y jugar basquetball, tambien escuchar musica y dormir
 
 ## Header 2
 
