@@ -13,11 +13,11 @@ Pasatiempos
 
 Leer y jugar basquetball, tambien escuchar musica y dormir
 
-## Header 2
+## logros
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+salir con diploma de la primaria con un promedio de 10, obtuve mi primer auto a los 15 años,
+eh conseguido un negocio de compra y venta de automoviles por mi propio esfuerzo.
+recibi una medalla por ganar un partido de futbol en primer lugar en mi secundaria.
 
 ### Header 3
 
